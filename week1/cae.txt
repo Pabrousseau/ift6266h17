@@ -9,7 +9,7 @@
   2  Conv2D  24x56x56
   3  MaxPool 24x28x28
   4  Conv2D  48x24x24
-  5  Conv2D  48x12x12
+  5  MaxPool 48x12x12
   6  Dense   6912
   7  Dense   512
   8  Dense   256
